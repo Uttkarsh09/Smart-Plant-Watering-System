@@ -23,10 +23,10 @@ The mobile app is made using Flutter, with a very simple user interface.
 
 The app is used as the front end for activating the water pump and monitoring the output from the sensors .
 
-### App screenshot
+#### App screenshot
 <img src="images/SPWS_app.jpg" width=200>
 
-### Setup
+#### Setup
 <img src="images/setup.jpg" width=200>
 
 ## Setting Up The Development Environment
