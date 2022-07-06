@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "66956188701",
+    "firebase_url": "https://spws-a9b93-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "spws-a9b93",
+    "storage_bucket": "spws-a9b93.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:66956188701:android:585e70ecd750fc08f1faf4",
+        "android_client_info": {
+          "package_name": "com.example.spws_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "66956188701-ffic2dfl82etvq5uhc0cirfola3n20rf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHQvk_gb64naYTy98Wn3o-VnU2LjaBLSs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "66956188701-ffic2dfl82etvq5uhc0cirfola3n20rf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "66956188701-8f47mvfqcg9d7v2dqbhdfmga8a86v09p.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.spwsApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
