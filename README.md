@@ -7,13 +7,13 @@ The mobile app is made using Flutter, with a very simple user interface.
 
 [NodeMCU ESP8266](https://robu.in/product/nodemcu-cp2102-board/) is used as a microcontroller.
 
-### Components
+#### Components
 
 1.  [FC-28](https://robu.in/product/soil-moisture-meter-soil-humidity-sensor-water-sensor-soil-hygrometer-ardunio/) - Soil Moisture Sensor
 2.  [DHT11](https://robu.in/product/dht11-temperature-and-humidity-sensor-module-with-led/) - Temperature and Humidity Sensor
 3.  [Water Pump](https://robu.in/product/dc-3-6-v-mini-micro-submersible-water-pump/)
 
-### Libraries Used
+#### Libraries Used
 
 1.  ESP8266WiFi
 2.  Firebase_ESP_Client
@@ -23,11 +23,13 @@ The mobile app is made using Flutter, with a very simple user interface.
 
 The app is used as the front end for activating the water pump and monitoring the output from the sensors .
 
-![App Screenshot](images/SPWS_app.jpg)
-![Complete Setup](images/setup.jpg)
+### App screenshot
+<img src="images/SPWS_app.jpg" width=200>
 
+### Setup
+<img src="images/setup.jpg" width=200>
 
-## Setting up
+## Setting Up The Development Environment
 
 You can either use Arduino IDE or VSCode with the Arduino Extension.
 
